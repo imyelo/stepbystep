@@ -1,0 +1,19 @@
+{
+  "name": "StepByStep",
+  "version": "0.0.1",
+  "description": "for flattenning the async functions",
+  "author": "yelo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imyelo/StepByStep.git"
+  },
+  "license": "MIT",
+  "script": {
+    "test": "grunt test:base"
+  },
+  "devDependencies": {
+    "chai": "~1.9.0",
+    "grunt": "~0.4.2",
+    "grunt-mocha-cli": "~1.5.0"
+  }
+}
